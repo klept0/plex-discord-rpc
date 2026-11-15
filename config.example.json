@@ -1,0 +1,9 @@
+{
+  "plex_token": "YOUR_PLEX_TOKEN",
+  "discord_client_id": "YOUR_DISCORD_APPLICATION_ID",
+  "plex_users": [],
+  "poll_seconds": 10,
+  "show_paused": true,
+  "large_image": "plex",
+  "plex_urls": []
+}
