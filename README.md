@@ -23,7 +23,7 @@ The Discord desktop app must be running on the same machine.
 | --- | --- |
 | `plex_token` | Your Plex token. |
 | `discord_client_id` | Discord application ID. |
-| `plex_users` | Plex user names whose sessions to show. Empty means the account that owns the token. Set this if you watch under a managed or different user. |
+| `plex_users` | Plex user names whose sessions to show, as they appear in Plex. Use `[]` to show the account that owns the token. |
 | `poll_seconds` | How often to check Plex. |
 | `show_paused` | Keep the presence while paused. |
 | `large_image` | Asset key in your Discord app, or an https image URL. |
